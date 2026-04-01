@@ -1,11 +1,11 @@
 [
-    {
-      "type": "mod_info",
-      "id": "TalismaDeck",
-      "name": "Talisma Deck",
-      "authors": ["human1545"],
-      "description": "deck para talismans",
-      "category": "content",
-      "dependencies": ["bn","arcana"]
-    }
+  {
+    "type": "MOD_INFO",
+    "id": "MagiCraft",
+    "name": "Magi Craft",
+    "authors": ["humano1545"],
+    "description":"Magi magic items fron the goddess Niki",
+    "category": "content",
+    "dependencies": ["bn"]
+  }
 ]
