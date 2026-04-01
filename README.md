@@ -1,2 +1,2 @@
 # Magi-Craft
-Magi magic items fron the goddess
+Magi magic items fron the goddess Niki
