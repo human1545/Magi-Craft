@@ -1,2 +1,1 @@
-# Talisma-deck
-Talisma deck mod
+# Magi-Craft
