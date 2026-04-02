@@ -1,0 +1,8 @@
+[
+  {
+    "type": "vehicle_part",
+    "id": "magic_core",
+    "name": { "str": "Core"},
+    "description": "magic core control the metal."
+  }
+]
